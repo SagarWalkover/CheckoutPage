@@ -1,0 +1,26 @@
+.cart-search {
+  font-size: small;
+}
+
+.cart-item {
+  font-size: small;
+}
+
+.card,
+.form-control,
+.btn {
+  border-radius: 0ch;
+}
+.list-group-item:first-child {
+  border-top-left-radius: 0ch;
+  border-top-right-radius: 0ch;
+}
+
+.list-group-item:last-child {
+  border-bottom-left-radius: 0ch;
+  border-bottom-right-radius: 0ch;
+}
+
+.product-btn {
+  font-size: smaller;
+}
